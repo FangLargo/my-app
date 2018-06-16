@@ -18,6 +18,7 @@ export default class App extends React.Component {
           <Text>Changes you make will automatically reload.</Text>
           <Text>Also, you suck. Like, big time.</Text>
           <Text>Nuh, uh. You do.</Text>
+          <Text>Commiting things.</Text>
           <Text style={styles.bigblue}>Shake your phone to open the developer menu. This sucks.</Text>
 
           {/* Renders Greeting with input name, defined below. */}
