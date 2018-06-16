@@ -73,12 +73,9 @@ class PizzaTranslator extends React.Component {
   }
 }
 
-<<<<<<< HEAD
 // Here's a test comment. 
 // More comments. 
-=======
 // Comment test.
->>>>>>> 69b3492add7aed66dd36859463e4c6e05088db64
 // This is what a Greeting looks like. Finds name and inserts here.
 // props are given by the JSX. 
 class Greeting extends React.Component {
