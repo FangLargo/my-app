@@ -18,6 +18,7 @@ export default class App extends React.Component {
           <Text>Changes you make will automatically reload.</Text>
           <Text>Also, you suck. Like, big time.</Text>
           <Text>Nuh, uh. You do.</Text>
+          <Text>Commiting things.</Text>
           <Text style={styles.bigblue}>Shake your phone to open the developer menu. This sucks.</Text>
 
           {/* Renders Greeting with input name, defined below. */}
@@ -72,8 +73,12 @@ class PizzaTranslator extends React.Component {
   }
 }
 
+<<<<<<< HEAD
 // Here's a test comment. 
 // More comments. 
+=======
+// Comment test.
+>>>>>>> 69b3492add7aed66dd36859463e4c6e05088db64
 // This is what a Greeting looks like. Finds name and inserts here.
 // props are given by the JSX. 
 class Greeting extends React.Component {
