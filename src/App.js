@@ -72,6 +72,7 @@ class PizzaTranslator extends React.Component {
   }
 }
 
+// Here's a test comment. 
 // This is what a Greeting looks like. Finds name and inserts here.
 // props are given by the JSX. 
 class Greeting extends React.Component {
